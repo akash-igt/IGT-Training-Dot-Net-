@@ -1,0 +1,8 @@
+C:\Users\akash.chauhan\Documents\Visual Studio 2017\Projects\Demo1\Project1\bin\Debug\Project1.exe.config
+C:\Users\akash.chauhan\Documents\Visual Studio 2017\Projects\Demo1\Project1\bin\Debug\Project1.exe
+C:\Users\akash.chauhan\Documents\Visual Studio 2017\Projects\Demo1\Project1\bin\Debug\Project1.pdb
+C:\Users\akash.chauhan\Documents\Visual Studio 2017\Projects\Demo1\Project1\bin\Debug\Demo12.dll
+C:\Users\akash.chauhan\Documents\Visual Studio 2017\Projects\Demo1\Project1\bin\Debug\Demo12.pdb
+C:\Users\akash.chauhan\Documents\Visual Studio 2017\Projects\Demo1\Project1\obj\Debug\Project1.csprojResolveAssemblyReference.cache
+C:\Users\akash.chauhan\Documents\Visual Studio 2017\Projects\Demo1\Project1\obj\Debug\Project1.exe
+C:\Users\akash.chauhan\Documents\Visual Studio 2017\Projects\Demo1\Project1\obj\Debug\Project1.pdb
