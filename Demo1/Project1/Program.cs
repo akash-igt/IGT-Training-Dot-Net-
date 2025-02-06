@@ -12,8 +12,41 @@ namespace Project1
     {
         static void Main(string[] args)
         {
-            
+            //MultiDimension Array
 
+            int[,] b = new int[4, 4];
+            b[0, 0] = 23;
+            b[0, 1] = 100;
+            b[1, 1] = 22;
+            b[2, 2] = 99;
+            b[3, 3] = 45;
+            for (int i = 0; i < 4; i++)
+            {
+                for (int j = 0; j < 4; j++)
+                {
+                    Console.Write(b[i, j] + " ");
+                }
+                Console.WriteLine();
+            }
+
+            Console.WriteLine("=====================");
+            //Jagged Array
+
+            int[][] data = new int[4][]; //declare
+            data[0] = new int[] { 57, 35, 76, 22 };
+            data[1] = new int[] { 95, 22, 77, 33, 88, 76544 };
+            data[2] = new int[] { 11, 22, 44 };
+            data[3] = new int[] { 85, 11 };
+
+            for (int i = 0; i < data.Length; i++)
+            {
+                for (int j = 0; j < data[i].Length; j++)
+                {
+
+                    Console.Write(data[i][j] + ",");
+                }
+                Console.WriteLine();
+            }
             Console.Read();
         }
     }
